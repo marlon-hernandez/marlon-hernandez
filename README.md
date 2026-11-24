@@ -1,6 +1,6 @@
 # Marlon Hernandez
 
-**Python Backend & AI Engineer**
+**Python Backend & AI Engineer** | Quindio, Colombia (Remote)
 
 Building fault-tolerant backend systems, idempotent APIs, and local-first AI data pipelines.
 
@@ -11,8 +11,8 @@ Building fault-tolerant backend systems, idempotent APIs, and local-first AI dat
 | Area | Technologies |
 | :--- | :--- |
 | **Backend & APIs** | Python, FastAPI, SQLAlchemy 2.0, Pydantic v2, Pytest |
-| **Databases** | PostgreSQL, Relational Schema Design, Transaction & Idempotency Patterns |
-| **AI & LLM Integration** | Ollama (Local LLMs), LLM APIs, Asynchronous Triage & Batch ETL Pipelines |
+| **Databases** | PostgreSQL, SQL, Relational Schema Design, Transaction & Idempotency Patterns |
+| **AI & LLM Integration** | Ollama (Local LLMs), LLM APIs, RLHF Code Evaluation, Asynchronous Triage & ETL Pipelines |
 | **Infrastructure & Tooling** | Docker, Docker Compose, GitHub Actions (CI), Linux, Git |
 
 ---
@@ -24,6 +24,10 @@ Building fault-tolerant backend systems, idempotent APIs, and local-first AI dat
 
 ---
 
-### Availability
+### Availability & Contact
 
-Open to **Remote Backend / AI Engineering** roles (**Full-time / Part-time / Contract**).
+Open to **Remote Backend / AI Engineering** roles (**Full-time / Part-time / Contract**).  
+Languages: **Spanish (Native)** | **English (B2)**
+
+* **LinkedIn:** [linkedin.com/in/marlon-hernandez-posada-software](https://www.linkedin.com/in/marlon-hernandez-posada-software)
+* **Email:** [hernandezposadamarlon90@gmail.com](mailto:hernandezposadamarlon90@gmail.com)
