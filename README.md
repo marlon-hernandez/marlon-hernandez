@@ -30,4 +30,4 @@ Open to **Remote Backend / AI Engineering** roles (**Full-time / Part-time / Con
 Languages: **Spanish (Native)** | **English (B2)**
 
 * **LinkedIn:** [linkedin.com/in/marlon-hernandez-posada-software](https://www.linkedin.com/in/marlon-hernandez-posada-software)
-* **Email:** [hernandezposadamarlon90@gmail.com](mailto:hernandezposadamarlon90@gmail.com)
+* **Email:** [marlonhernandezz2609@gmail.com](mailto:marlonhernandezz2609@gmail.com)
